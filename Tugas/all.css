@@ -1,0 +1,44 @@
+.allqis {
+    display: flex;
+    text-align: left;
+    width: 1000px;
+    margin: 0 100px;
+    justify-content: space-between;
+}
+
+.tulis {
+    display: flex;
+    
+}
+
+.alkis {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Pikachu {
+    display: flex;
+    margin-left: 0px;
+    width: 220px;
+    height: 290px;
+}
+
+Pikachu {
+    display: flex;
+    width: 350px;
+    height: 300px;
+    text-align: center;
+    margin-left: 200px;
+}
+.Hijau {
+    display: flex;
+    margin: 50px 150px;
+    width: 350px;
+    height: 300px;
+}
+
+#Hijau {
+    display: flex;
+    width: 300px;
+    height: 200px;
+}
